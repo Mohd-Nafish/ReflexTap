@@ -30,13 +30,15 @@ ReflexTap measures how quickly a user responds when the screen turns green. The 
 
 ## 📸 Screenshots
 
-Add your screenshots inside a `screenshots` folder.
 
 ```md
 <img width="1280" height="640" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-24 at 17 14 33" src="https://github.com/user-attachments/assets/7eff282d-5d44-499b-b184-de3615f43912" />
 <img width="1280" height="640" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-24 at 17 14 45" src="https://github.com/user-attachments/assets/3957b004-1745-45f1-920f-7b3f7721e800" />
 
+```
+
 ## 🧠 How It Works
+
 1. User taps **Start**
 2. Screen turns **Red** (“Wait…”)
 3. After a random delay, screen turns **Green**
@@ -49,8 +51,6 @@ Date().timeIntervalSince(startTime)
 
 6. Score is saved locally  
 7. Graph updates with the latest attempt  
-
----
 
 ## 📈 Performance Ranking Logic
 
