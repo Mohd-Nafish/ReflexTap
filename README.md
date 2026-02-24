@@ -30,13 +30,11 @@ ReflexTap measures how quickly a user responds when the screen turns green. The 
 
 ## 📸 Screenshots
 
-
-```md
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-24 at 17 14 33" src="https://github.com/user-attachments/assets/5208d9c0-d77e-467e-8965-ac1c9c31b3c0" />
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-24 at 17 14 45" src="https://github.com/user-attachments/assets/7aada194-ad2e-4f44-963c-ca92b0fdedda" />
 
 
-```
+
 
 ## 🧠 How It Works
 
